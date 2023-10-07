@@ -710,7 +710,7 @@
                   "personalDetails": {
                     "home_state": "Hawaii",
                     "city": "Honolulu",
-                    "height": "6ft 4in",
+                    "height": "6'4\"",
                     "weight": "222 lbs"
                   },
                   "year": "1"
@@ -810,7 +810,7 @@
                   "personalDetails": {
                     "home_state": "Oregon",
                     "city": "Eugene",
-                    "height": "6ft6in",
+                    "height": "6'6\"",
                     "weight": "236 lbs"
                   },
                   "year": "1"
@@ -860,7 +860,7 @@
                   "personalDetails": {
                     "home_state": "Texas",
                     "city": "Houston",
-                    "height": "6ft3in",
+                    "height": "6'3\"",
                     "weight": "215 lbs"
                   },
                   "year": "1"
