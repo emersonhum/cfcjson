@@ -1695,7 +1695,7 @@
               ]
             },
             "LB": {
-              "count": 1,
+              "count": 4,
               "players": [
                 {
                   "ratPot": "99",
@@ -1788,6 +1788,287 @@
                   },
                   "year": "1",
                   "name": "Noah Sewell"
+                },
+                {
+                  "ratPot": "88",
+                  "position": "LB",
+                  "ratDur": "85",
+                  "ratings": {
+                    "playerStat4": {
+                      "name": "Football IQ",
+                      "value": "80"
+                    },
+                    "playerStat1": {
+                      "name": "Recruit Rating",
+                      "value": "5-star"
+                    },
+                    "playerStat6": {
+                      "name": "Run Stopping",
+                      "value": "85"
+                    },
+                    "playerStat3": {
+                      "name": "Durability",
+                      "value": "85"
+                    },
+                    "playerStat5": {
+                      "name": "Tackling",
+                      "value": "88"
+                    },
+                    "playerStat2": {
+                      "name": "Potential",
+                      "value": "88"
+                    },
+                    "playerStat7": {
+                      "name": "Pass Pressure",
+                      "value": "85"
+                    }
+                  },
+                  "jerseyNumber": "1",
+                  "ratFootIQ": "80",
+                  "startYear": "2023",
+                  "personalDetails": {
+                    "home_state": "California",
+                    "city": "Upland",
+                    "height": "6'2\"",
+                    "weight": "225 lbs"
+                  },
+                  "year": "1",
+                  "name": "Justin Flowe"
+                },
+                {
+                  "ratPot": "95",
+                  "position": "LB",
+                  "ratDur": "99",
+                  "ratings": {
+                    "playerStat4": {
+                      "name": "Football IQ",
+                      "value": "85"
+                    },
+                    "playerStat1": {
+                      "name": "Recruit Rating",
+                      "value": "4-star"
+                    },
+                    "playerStat6": {
+                      "name": "Run Stopping",
+                      "value": "85"
+                    },
+                    "playerStat3": {
+                      "name": "Durability",
+                      "value": "99"
+                    },
+                    "playerStat5": {
+                      "name": "Tackling",
+                      "value": "85"
+                    },
+                    "playerStat2": {
+                      "name": "Potential",
+                      "value": "95"
+                    },
+                    "playerStat7": {
+                      "name": "Pass Pressure",
+                      "value": "95"
+                    }
+                  },
+                  "jerseyNumber": "1",
+                  "ratFootIQ": "85",
+                  "startYear": "2023",
+                  "personalDetails": {
+                    "home_state": "California",
+                    "city": "Long Beach",
+                    "height": "6'3\"",
+                    "weight": "232 lbs"
+                  },
+                  "year": "1",
+                  "name": "Kenny Rowe"
+                }
+              ]
+            },
+            "CB": {
+              "count": 5,
+              "players": [
+                {
+                  "ratPot": "99",
+                  "position": "CB",
+                  "ratDur": "99",
+                  "ratings": {
+                    "playerStat4": {
+                      "name": "Football IQ",
+                      "value": "95"
+                    },
+                    "playerStat1": {
+                      "name": "Recruit Rating",
+                      "value": "4-star"
+                    },
+                    "playerStat6": {
+                      "name": "Speed",
+                      "value": "90"
+                    },
+                    "playerStat3": {
+                      "name": "Durability",
+                      "value": "99"
+                    },
+                    "playerStat5": {
+                      "name": "Coverage",
+                      "value": "96"
+                    },
+                    "playerStat2": {
+                      "name": "Potential",
+                      "value": "99"
+                    },
+                    "playerStat7": {
+                      "name": "Tackling",
+                      "value": "80"
+                    }
+                  },
+                  "jerseyNumber": "14",
+                  "ratFootIQ": "95",
+                  "startYear": "2023",
+                  "personalDetails": {
+                    "home_state": "California",
+                    "city": "Chino",
+                    "height": "5'9\"",
+                    "weight": "200 lbs"
+                  },
+                  "year": "1",
+                  "name": "Ifo Ekpre-Olomu"
+                },
+                {
+                  "ratPot": "96",
+                  "position": "CB",
+                  "ratDur": "99",
+                  "ratings": {
+                    "playerStat4": {
+                      "name": "Football IQ",
+                      "value": "85"
+                    },
+                    "playerStat1": {
+                      "name": "Recruit Rating",
+                      "value": "4-star"
+                    },
+                    "playerStat6": {
+                      "name": "Speed",
+                      "value": "96"
+                    },
+                    "playerStat3": {
+                      "name": "Durability",
+                      "value": "99"
+                    },
+                    "playerStat5": {
+                      "name": "Coverage",
+                      "value": "90"
+                    },
+                    "playerStat2": {
+                      "name": "Potential",
+                      "value": "99"
+                    },
+                    "playerStat7": {
+                      "name": "Tackling",
+                      "value": "75"
+                    }
+                  },
+                  "jerseyNumber": "13",
+                  "ratFootIQ": "85",
+                  "startYear": "2023",
+                  "personalDetails": {
+                    "home_state": "California",
+                    "city": "Fresno",
+                    "height": "5'11\"",
+                    "weight": "180 lbs"
+                  },
+                  "year": "1",
+                  "name": "Cliff Harris"
+                },
+                {
+                  "ratPot": "99",
+                  "position": "CB",
+                  "ratDur": "99",
+                  "ratings": {
+                    "playerStat4": {
+                      "name": "Football IQ",
+                      "value": "90"
+                    },
+                    "playerStat1": {
+                      "name": "Recruit Rating",
+                      "value": "4-star"
+                    },
+                    "playerStat6": {
+                      "name": "Speed",
+                      "value": "95"
+                    },
+                    "playerStat3": {
+                      "name": "Durability",
+                      "value": "99"
+                    },
+                    "playerStat5": {
+                      "name": "Coverage",
+                      "value": "90"
+                    },
+                    "playerStat2": {
+                      "name": "Potential",
+                      "value": "99"
+                    },
+                    "playerStat7": {
+                      "name": "Tackling",
+                      "value": "90"
+                    }
+                  },
+                  "jerseyNumber": "6",
+                  "ratFootIQ": "90",
+                  "startYear": "2023",
+                  "personalDetails": {
+                    "home_state": "California",
+                    "city": "Los Angeles",
+                    "height": "5'11\"",
+                    "weight": "190 lbs"
+                  },
+                  "year": "1",
+                  "name": "Walter Thurmond"
+                },
+                {
+                  "ratPot": "99",
+                  "position": "CB",
+                  "ratDur": "99",
+                  "ratings": {
+                    "playerStat4": {
+                      "name": "Football IQ",
+                      "value": "90"
+                    },
+                    "playerStat1": {
+                      "name": "Recruit Rating",
+                      "value": "4-star"
+                    },
+                    "playerStat6": {
+                      "name": "Speed",
+                      "value": "95"
+                    },
+                    "playerStat3": {
+                      "name": "Durability",
+                      "value": "99"
+                    },
+                    "playerStat5": {
+                      "name": "Coverage",
+                      "value": "95"
+                    },
+                    "playerStat2": {
+                      "name": "Potential",
+                      "value": "99"
+                    },
+                    "playerStat7": {
+                      "name": "Tackling",
+                      "value": "78"
+                    }
+                  },
+                  "jerseyNumber": "13",
+                  "ratFootIQ": "85",
+                  "startYear": "2023",
+                  "personalDetails": {
+                    "home_state": "Tennessee",
+                    "city": "Nashville",
+                    "height": "5'0\"",
+                    "weight": "201 lbs"
+                  },
+                  "year": "1",
+                  "name": "Ugo Amadi"
                 }
               ]
             },
