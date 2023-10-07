@@ -34,7 +34,22 @@
             "AUB": "Iron Bowl"
           },
           "prestige": "90",
-          "hexColor": "#9E1B32"
+          "hexColor": "#9E1B32",
+          "headCoach": {
+            "contractLength": "6",
+            "startYear": "2023",
+            "age": "71",
+            "ratOff": "85",
+            "cumulativePrestige": "0",
+            "ratDef": "95",
+            "homeState": "West Virigina",
+            "ratPot": "97",
+            "hometown": "Fairmont",
+            "ratTalent": "90",
+            "baselinePrestige": "90",
+            "name": "Nick Saban",
+            "contractYear": "0"
+          }
         },
         {
           "name": "Arkansas",
@@ -76,7 +91,10 @@
             "FSU": "Sunshine Showdown"
           },
           "prestige": "80",
-          "hexColor": "#0021A5"
+          "hexColor": "#0021A5",
+          "headCoach": {
+            "name": "Billy Napier"
+          }
         },
         {
           "name": "Georgia",
@@ -91,7 +109,22 @@
             "AUB": "Deep South's Oldest Rivalry"
           },
           "prestige": "90",
-          "hexColor": "#BA0C2F"
+          "hexColor": "#BA0C2F",
+          "headCoach": {
+            "contractLength": "6",
+            "startYear": "2023",
+            "age": "47",
+            "ratOff": "83",
+            "cumulativePrestige": "0",
+            "ratDef": "95",
+            "homeState": "Alabama",
+            "ratPot": "97",
+            "hometown": "Montgomery",
+            "ratTalent": "90",
+            "baselinePrestige": "85",
+            "name": "Kirby Smart",
+            "contractYear": "0"
+          }
         },
         {
           "name": "LSU",
@@ -105,7 +138,22 @@
             "MISS": "Magnolia Bowl"
           },
           "prestige": "85",
-          "hexColor": "#461D7C"
+          "hexColor": "#461D7C",
+          "headCoach": {
+            "contractLength": "6",
+            "startYear": "2023",
+            "age": "61",
+            "ratOff": "80",
+            "cumulativePrestige": "0",
+            "ratDef": "88",
+            "homeState": "Massachusetts",
+            "ratPot": "90",
+            "hometown": "Everett",
+            "ratTalent": "85",
+            "baselinePrestige": "86",
+            "name": "Brian Kelly",
+            "contractYear": "0"
+          }
         },
         {
           "name": "Tennessee",
@@ -119,7 +167,10 @@
             "ALA": "Third Saturday in October"
           },
           "prestige": "75",
-          "hexColor": "#FF8200"
+          "hexColor": "#FF8200",
+          "headCoach": {
+            "name": "Josh Heupel"
+          }
         },
         {
           "name": "Ole Miss",
@@ -134,7 +185,10 @@
             "LSU": "Magnolia Bowl"
           },
           "prestige": "80",
-          "hexColor": "#CE1126"
+          "hexColor": "#CE1126",
+          "headCoach": {
+            "name": "Lane Kiffin"
+          }
         },
         {
           "name": "South Carolina",
@@ -148,7 +202,10 @@
             "CLEM": "Palmetto Bowl"
           },
           "prestige": "70",
-          "hexColor": "#73000A"
+          "hexColor": "#73000A",
+          "headCoach": {
+            "name": "Shane Beamer"
+          }
         },
         {
           "name": "Kentucky",
@@ -163,7 +220,10 @@
             "LOU": "Governor's Cup"
           },
           "prestige": "70",
-          "hexColor": "#0033A0"
+          "hexColor": "#0033A0",
+          "headCoach": {
+            "name": "Mark Stoops"
+          }
         }
       ]
     },
@@ -182,7 +242,10 @@
           ],
           "rivalryNames": {},
           "prestige": "70",
-          "hexColor": "#13294B"
+          "hexColor": "#13294B",
+          "headCoach": {
+            "name": "Bret Bielema"
+          }
         },
         {
           "name": "Indiana",
@@ -196,7 +259,10 @@
             "PUR": "Old Oaken Bucket"
           },
           "prestige": "70",
-          "hexColor": "#990000"
+          "hexColor": "#990000",
+          "headCoach": {
+            "name": "Tom Allen"
+          }
         },
         {
           "name": "Michigan",
@@ -210,7 +276,22 @@
             "OSU": "The Game"
           },
           "prestige": "90",
-          "hexColor": "#00274C"
+          "hexColor": "#00274C",
+          "headCoach": {
+            "contractLength": "6",
+            "startYear": "2023",
+            "age": "71",
+            "ratOff": "88",
+            "cumulativePrestige": "0",
+            "ratDef": "85",
+            "homeState": "Ohio",
+            "ratPot": "90",
+            "hometown": "Toledo",
+            "ratTalent": "87",
+            "baselinePrestige": "87",
+            "name": "Jim Harbaugh",
+            "contractYear": "0"
+          }
         },
         {
           "name": "Michigan State",
@@ -222,7 +303,10 @@
           ],
           "rivalryNames": {},
           "prestige": "80",
-          "hexColor": "#18453B"
+          "hexColor": "#18453B",
+          "headCoach": {
+            "name": "Mel Tucker"
+          }
         },
         {
           "name": "Minnesota",
@@ -236,7 +320,10 @@
             "WISC": "The Axe Game"
           },
           "prestige": "75",
-          "hexColor": "#7A0019"
+          "hexColor": "#7A0019",
+          "headCoach": {
+            "name": "PJ Fleck"
+          }
         },
         {
           "name": "Ohio State",
@@ -250,7 +337,22 @@
             "MICH": "The Game"
           },
           "prestige": "90",
-          "hexColor": "#BB0000"
+          "hexColor": "#BB0000",
+          "headCoach": {
+            "contractLength": "6",
+            "startYear": "2023",
+            "age": "44",
+            "ratOff": "89",
+            "cumulativePrestige": "0",
+            "ratDef": "85",
+            "homeState": "New Hampshire",
+            "ratPot": "90",
+            "hometown": "Manchester",
+            "ratTalent": "90",
+            "baselinePrestige": "83",
+            "name": "Ryan Day",
+            "contractYear": "0"
+          }
         },
         {
           "name": "Penn State",
@@ -265,7 +367,10 @@
             "PITT": "The Keystone Classic"
           },
           "prestige": "85",
-          "hexColor": "#041E42"
+          "hexColor": "#041E42",
+          "headCoach": {
+            "name": "James Franklin"
+          }
         },
         {
           "name": "Purdue",
@@ -279,7 +384,10 @@
             "IND": "Old Oaken Bucket"
           },
           "prestige": "70",
-          "hexColor": "#CEB888"
+          "hexColor": "#CEB888",
+          "headCoach": {
+            "name": "Ryan Walters"
+          }
         },
         {
           "name": "Wisconsin",
@@ -293,7 +401,10 @@
             "MINN": "The Axe Game"
           },
           "prestige": "80",
-          "hexColor": "#C5050C"
+          "hexColor": "#C5050C",
+          "headCoach": {
+            "name": "Luke Fickell"
+          }
         },
         {
           "name": "Iowa",
@@ -306,7 +417,10 @@
           ],
           "rivalryNames": {},
           "prestige": "80",
-          "hexColor": "#FFCD00"
+          "hexColor": "#FFCD00",
+          "headCoach": {
+            "name": "Kirk Ferentz"
+          }
         }
       ]
     },
@@ -325,7 +439,22 @@
           ],
           "rivalryNames": {},
           "prestige": "90",
-          "hexColor": "#F56600"
+          "hexColor": "#F56600",
+          "headCoach": {
+            "contractLength": "6",
+            "startYear": "2023",
+            "age": "53",
+            "ratOff": "90",
+            "cumulativePrestige": "0",
+            "ratDef": "80",
+            "homeState": "Alabama",
+            "ratPot": "95",
+            "hometown": "Birmingham",
+            "ratTalent": "85",
+            "baselinePrestige": "85",
+            "name": "Dabo Swinney",
+            "contractYear": "0"
+          }
         },
         {
           "name": "Florida State",
@@ -339,7 +468,10 @@
             "FLA": "Sunshine Showdown"
           },
           "prestige": "85",
-          "hexColor": "#782F40"
+          "hexColor": "#782F40",
+          "headCoach": {
+            "name": "Mike Norvell"
+          }
         },
         {
           "name": "Georgia Tech",
@@ -351,7 +483,10 @@
           ],
           "rivalryNames": {},
           "prestige": "75",
-          "hexColor": "#B3A369"
+          "hexColor": "#B3A369",
+          "headCoach": {
+            "name": "Brent Key"
+          }
         },
         {
           "name": "Miami",
@@ -363,7 +498,22 @@
           ],
           "rivalryNames": {},
           "prestige": "85",
-          "hexColor": "#F47321"
+          "hexColor": "#F47321",
+          "headCoach": {
+            "contractLength": "6",
+            "startYear": "2023",
+            "age": "53",
+            "ratOff": "80",
+            "cumulativePrestige": "0",
+            "ratDef": "85",
+            "homeState": "Florida",
+            "ratPot": "90",
+            "hometown": "Miami",
+            "ratTalent": "87",
+            "baselinePrestige": "80",
+            "name": "Mario Cristobal",
+            "contractYear": "0"
+          }
         },
         {
           "name": "North Carolina",
@@ -377,7 +527,10 @@
             "UVA": "South's Oldest Rivalry"
           },
           "prestige": "75",
-          "hexColor": "#7BAFD4"
+          "hexColor": "#7BAFD4",
+          "headCoach": {
+            "name": "Mack Brown"
+          }
         },
         {
           "name": "North Carolina State",
@@ -389,7 +542,10 @@
           ],
           "rivalryNames": {},
           "prestige": "70",
-          "hexColor": "#CC0000"
+          "hexColor": "#CC0000",
+          "headCoach": {
+            "name": "Dave Doeren"
+          }
         },
         {
           "name": "Virginia",
@@ -403,7 +559,10 @@
             "UNC": "South's Oldest Rivalry"
           },
           "prestige": "65",
-          "hexColor": "#232D4B"
+          "hexColor": "#232D4B",
+          "headCoach": {
+            "name": "Tony Elliot"
+          }
         },
         {
           "name": "Virginia Tech",
@@ -415,7 +574,10 @@
           ],
           "rivalryNames": {},
           "prestige": "70",
-          "hexColor": "#630031"
+          "hexColor": "#630031",
+          "headCoach": {
+            "name": "Brent Pry"
+          }
         },
         {
           "name": "Duke",
@@ -427,7 +589,10 @@
           ],
           "rivalryNames": {},
           "prestige": "70",
-          "hexColor": "#003087"
+          "hexColor": "#003087",
+          "headCoach": {
+            "name": "Mike Elko"
+          }
         },
         {
           "name": "Wake Forest",
@@ -439,7 +604,10 @@
           ],
           "rivalryNames": {},
           "prestige": "70",
-          "hexColor": "#9E7E38"
+          "hexColor": "#9E7E38",
+          "headCoach": {
+            "name": "Dave Clawson"
+          }
         }
       ]
     },
@@ -461,7 +629,10 @@
             "OKST": "Bedlam Series"
           },
           "prestige": "90",
-          "hexColor": "#841617"
+          "hexColor": "#841617",
+          "headCoach": {
+            "name": "Brent Venables"
+          }
         },
         {
           "name": "Texas",
@@ -476,7 +647,10 @@
             "TAMU": "Lone Star Showdown"
           },
           "prestige": "85",
-          "hexColor": "#BF5700"
+          "hexColor": "#BF5700",
+          "headCoach": {
+            "name": "Steve Sarkisian"
+          }
         },
         {
           "name": "Baylor",
@@ -490,7 +664,10 @@
             "TAMU": "Battle of the Brazos"
           },
           "prestige": "75",
-          "hexColor": "#154734"
+          "hexColor": "#154734",
+          "headCoach": {
+            "name": "Dave Aranda"
+          }
         },
         {
           "name": "Texas A&M",
@@ -504,7 +681,10 @@
             "BAY": "Battle of the Brazos"
           },
           "prestige": "80",
-          "hexColor": "#500000"
+          "hexColor": "#500000",
+          "headCoach": {
+            "name": "Jimbo Fisher"
+          }
         },
         {
           "name": "Iowa State",
@@ -516,7 +696,10 @@
           ],
           "rivalryNames": {},
           "prestige": "70",
-          "hexColor": "#C8102E"
+          "hexColor": "#C8102E",
+          "headCoach": {
+            "name": "Matt Campbell"
+          }
         },
         {
           "name": "Kansas",
@@ -531,7 +714,10 @@
             "KSU": "Sunflower Showdown"
           },
           "prestige": "70",
-          "hexColor": "#0051BA"
+          "hexColor": "#0051BA",
+          "headCoach": {
+            "name": "Lance Leipold"
+          }
         },
         {
           "name": "Kansas State",
@@ -545,7 +731,10 @@
             "KU": "Sunflower Showdown"
           },
           "prestige": "75",
-          "hexColor": "#512888"
+          "hexColor": "#512888",
+          "headCoach": {
+            "name": "Chris Klieman"
+          }
         },
         {
           "name": "Oklahoma State",
@@ -558,7 +747,10 @@
             "OKLA": "Bedlam Series"
           },
           "prestige": "80",
-          "hexColor": "#FF7300"
+          "hexColor": "#FF7300",
+          "headCoach": {
+            "name": "Mike Gundy"
+          }
         },
         {
           "name": "TCU",
@@ -570,7 +762,10 @@
           ],
           "rivalryNames": {},
           "prestige": "80",
-          "hexColor": "#4D1979"
+          "hexColor": "#4D1979",
+          "headCoach": {
+            "name": "Sonny Dykes"
+          }
         },
         {
           "name": "Texas Tech",
@@ -582,7 +777,10 @@
           ],
           "rivalryNames": {},
           "prestige": "75",
-          "hexColor": "#CC0000"
+          "hexColor": "#CC0000",
+          "headCoach": {
+            "name": "Joey McGuire"
+          }
         }
       ]
     },
@@ -603,7 +801,22 @@
             "STAN": "Big Game"
           },
           "prestige": "70",
-          "hexColor": "#003262"
+          "hexColor": "#003262",
+          "headCoach": {
+            "contractLength": "6",
+            "startYear": "2023",
+            "age": "46",
+            "ratOff": "70",
+            "cumulativePrestige": "0",
+            "ratDef": "80",
+            "homeState": "Oregon",
+            "ratPot": "80",
+            "hometown": "Eugene",
+            "ratTalent": "75",
+            "baselinePrestige": "65",
+            "name": "Justin Wilcox",
+            "contractYear": "0"
+          }
         },
         {
           "name": "Oregon",
@@ -2372,7 +2585,22 @@
             "ORE": "Civil War"
           },
           "prestige": "75",
-          "hexColor": "#DC4405"
+          "hexColor": "#DC4405",
+          "headCoach": {
+            "contractLength": "6",
+            "startYear": "2023",
+            "age": "44",
+            "ratOff": "85",
+            "cumulativePrestige": "0",
+            "ratDef": "75",
+            "homeState": "California",
+            "ratPot": "88",
+            "hometown": "Pasadena",
+            "ratTalent": "80",
+            "baselinePrestige": "65",
+            "name": "Jonathan Smith",
+            "contractYear": "0"
+          }
         },
         {
           "name": "Stanford",
@@ -2386,7 +2614,22 @@
             "CAL": "Big Game"
           },
           "prestige": "70",
-          "hexColor": "#8C1515"
+          "hexColor": "#8C1515",
+          "headCoach": {
+            "contractLength": "6",
+            "startYear": "2023",
+            "age": "55",
+            "ratOff": "75",
+            "cumulativePrestige": "0",
+            "ratDef": "70",
+            "homeState": "California",
+            "ratPot": "80",
+            "hometown": "Downey",
+            "ratTalent": "75",
+            "baselinePrestige": "40",
+            "name": "Troy Taylor",
+            "contractYear": "0"
+          }
         },
         {
           "name": "UCLA",
@@ -2400,7 +2643,22 @@
             "USC": "Victory Bell"
           },
           "prestige": "80",
-          "hexColor": "#2D68C4"
+          "hexColor": "#2D68C4",
+          "headCoach": {
+            "contractLength": "6",
+            "startYear": "2023",
+            "age": "59",
+            "ratOff": "90",
+            "cumulativePrestige": "0",
+            "ratDef": "70",
+            "homeState": "New Hampshire",
+            "ratPot": "90",
+            "hometown": "Dover",
+            "ratTalent": "80",
+            "baselinePrestige": "80",
+            "name": "Chip Kelly",
+            "contractYear": "0"
+          }
         },
         {
           "name": "USC",
@@ -2414,7 +2672,22 @@
             "UCLA": "Victory Bell"
           },
           "prestige": "90",
-          "hexColor": "#990000"
+          "hexColor": "#990000",
+          "headCoach": {
+            "contractLength": "6",
+            "startYear": "2023",
+            "age": "40",
+            "ratOff": "90",
+            "cumulativePrestige": "0",
+            "ratDef": "75",
+            "homeState": "Texas",
+            "ratPot": "90",
+            "hometown": "Lubock",
+            "ratTalent": "80",
+            "baselinePrestige": "80",
+            "name": "Lincoln Riley",
+            "contractYear": "0"
+          }
         },
         {
           "name": "Washington",
@@ -2428,7 +2701,22 @@
             "WSU": "Apple Cup"
           },
           "prestige": "80",
-          "hexColor": "#4B2E83"
+          "hexColor": "#4B2E83",
+          "headCoach": {
+            "contractLength": "6",
+            "startYear": "2023",
+            "age": "48",
+            "ratOff": "90",
+            "cumulativePrestige": "0",
+            "ratDef": "75",
+            "homeState": "North Dakota",
+            "ratPot": "90",
+            "hometown": "Milbank",
+            "ratTalent": "83",
+            "baselinePrestige": "70",
+            "name": "Kalen DeBoer",
+            "contractYear": "0"
+          }
         },
         {
           "name": "Washington State",
@@ -2442,7 +2730,22 @@
             "WASH": "Apple Cup"
           },
           "prestige": "75",
-          "hexColor": "#981E32"
+          "hexColor": "#981E32",
+          "headCoach": {
+            "contractLength": "6",
+            "startYear": "2023",
+            "age": "40",
+            "ratOff": "67",
+            "cumulativePrestige": "0",
+            "ratDef": "75",
+            "homeState": "Wisconsin",
+            "ratPot": "78",
+            "hometown": "Oconto",
+            "ratTalent": "70",
+            "baselinePrestige": "40",
+            "name": "Jake Dickert",
+            "contractYear": "0"
+          }
         },
         {
           "name": "Arizona",
@@ -2456,7 +2759,22 @@
             "ASU": "Duel in the Desert"
           },
           "prestige": "70",
-          "hexColor": "#CC0033"
+          "hexColor": "#CC0033",
+          "headCoach": {
+            "contractLength": "6",
+            "startYear": "2023",
+            "age": "47",
+            "ratOff": "70",
+            "cumulativePrestige": "0",
+            "ratDef": "65",
+            "homeState": "New Jersey",
+            "ratPot": "80",
+            "hometown": "Livingston",
+            "ratTalent": "70",
+            "baselinePrestige": "65",
+            "name": "Jedd Fisch",
+            "contractYear": "0"
+          }
         },
         {
           "name": "Arizona State",
@@ -2469,7 +2787,22 @@
             "ARIZ": "Duel in the Desert"
           },
           "prestige": "70",
-          "hexColor": "#8C1D40"
+          "hexColor": "#8C1D40",
+          "headCoach": {
+            "contractLength": "6",
+            "startYear": "2023",
+            "age": "33",
+            "ratOff": "85",
+            "cumulativePrestige": "0",
+            "ratDef": "68",
+            "homeState": "Arizona",
+            "ratPot": "87",
+            "hometown": "Phoenix",
+            "ratTalent": "80",
+            "baselinePrestige": "60",
+            "name": "Kenny Dillingham",
+            "contractYear": "0"
+          }
         }
       ]
     },
@@ -2489,7 +2822,10 @@
           ],
           "rivalryNames": {},
           "prestige": "90",
-          "hexColor": "#0C2340"
+          "hexColor": "#0C2340",
+          "headCoach": {
+            "name": "Marcus Freeman"
+          }
         },
         {
           "name": "Pittsburgh",
@@ -2504,7 +2840,10 @@
             "WVU": "Backyard Brawl"
           },
           "prestige": "70",
-          "hexColor": "#003594"
+          "hexColor": "#003594",
+          "headCoach": {
+            "name": "Pat Narduzzi"
+          }
         },
         {
           "name": "West Virginia",
@@ -2518,7 +2857,10 @@
             "PITT": "Backyard Brawl"
           },
           "prestige": "70",
-          "hexColor": "#002855"
+          "hexColor": "#002855",
+          "headCoach": {
+            "name": "Neal Brown"
+          }
         },
         {
           "name": "Cincinnati",
@@ -2533,7 +2875,10 @@
             "LOU": "The Keg of Nails"
           },
           "prestige": "70",
-          "hexColor": "#E00122"
+          "hexColor": "#E00122",
+          "headCoach": {
+            "name": "Scott Satterfield"
+          }
         },
         {
           "name": "Boston College",
@@ -2545,7 +2890,10 @@
           ],
           "rivalryNames": {},
           "prestige": "65",
-          "hexColor": "#98002E"
+          "hexColor": "#98002E",
+          "headCoach": {
+            "name": "Jeff Hafley"
+          }
         },
         {
           "name": "Louisville",
@@ -2560,7 +2908,10 @@
             "CINN": "The Keg of Nails"
           },
           "prestige": "75",
-          "hexColor": "#AD0000"
+          "hexColor": "#AD0000",
+          "headCoach": {
+            "name": "Jeff Brohm"
+          }
         },
         {
           "name": "South Florida",
@@ -2571,7 +2922,10 @@
           ],
           "rivalryNames": {},
           "prestige": "65",
-          "hexColor": "#006747"
+          "hexColor": "#006747",
+          "headCoach": {
+            "name": "Alex Golesh"
+          }
         },
         {
           "name": "Rutgers",
@@ -2582,7 +2936,10 @@
           ],
           "rivalryNames": {},
           "prestige": "70",
-          "hexColor": "#CC0033"
+          "hexColor": "#CC0033",
+          "headCoach": {
+            "name": "Greg Schiano"
+          }
         },
         {
           "name": "Syracuse",
@@ -2594,7 +2951,10 @@
           ],
           "rivalryNames": {},
           "prestige": "70",
-          "hexColor": "#F76900"
+          "hexColor": "#F76900",
+          "headCoach": {
+            "name": "Dino Babers"
+          }
         },
         {
           "name": "UConn",
@@ -2605,7 +2965,10 @@
           ],
           "rivalryNames": {},
           "prestige": "70",
-          "hexColor": "#F76900"
+          "hexColor": "#F76900",
+          "headCoach": {
+            "name": "Jim Mora"
+          }
         }
       ]
     },
@@ -2624,7 +2987,10 @@
           ],
           "rivalryNames": {},
           "prestige": "50",
-          "hexColor": "#D4BF91"
+          "hexColor": "#D4BF91",
+          "headCoach": {
+            "name": "Jeff Monken"
+          }
         },
         {
           "name": "Navy",
@@ -2635,7 +3001,10 @@
           ],
           "rivalryNames": {},
           "prestige": "50",
-          "hexColor": "#00205B"
+          "hexColor": "#00205B",
+          "headCoach": {
+            "name": "Brian Newberry"
+          }
         },
         {
           "name": "East Carolina",
@@ -2648,7 +3017,10 @@
           ],
           "rivalryNames": {},
           "prestige": "50",
-          "hexColor": "#592A8A"
+          "hexColor": "#592A8A",
+          "headCoach": {
+            "name": "Mike Houston"
+          }
         },
         {
           "name": "Memphis",
@@ -2659,7 +3031,10 @@
           ],
           "rivalryNames": {},
           "prestige": "50",
-          "hexColor": "#003087"
+          "hexColor": "#003087",
+          "headCoach": {
+            "name": "Ryan Silverfield"
+          }
         },
         {
           "name": "North Texas",
@@ -2670,7 +3045,10 @@
           ],
           "rivalryNames": {},
           "prestige": "50",
-          "hexColor": "#00853E"
+          "hexColor": "#00853E",
+          "headCoach": {
+            "name": "Eric Morris"
+          }
         },
         {
           "name": "Rice",
@@ -2681,7 +3059,10 @@
           ],
           "rivalryNames": {},
           "prestige": "50",
-          "hexColor": "#00205B"
+          "hexColor": "#00205B",
+          "headCoach": {
+            "name": "Mike Bloomgren"
+          }
         },
         {
           "name": "SMU",
@@ -2692,7 +3073,10 @@
           ],
           "rivalryNames": {},
           "prestige": "50",
-          "hexColor": "#0033A0"
+          "hexColor": "#0033A0",
+          "headCoach": {
+            "name": "Rhett Lashlee"
+          }
         },
         {
           "name": "Tulane",
@@ -2703,7 +3087,10 @@
           ],
           "rivalryNames": {},
           "prestige": "50",
-          "hexColor": "#006747"
+          "hexColor": "#006747",
+          "headCoach": {
+            "name": "Willie Fritz"
+          }
         },
         {
           "name": "UMass",
@@ -2715,7 +3102,10 @@
           ],
           "rivalryNames": {},
           "prestige": "50",
-          "hexColor": "#971B2F"
+          "hexColor": "#971B2F",
+          "headCoach": {
+            "name": "Don Brown"
+          }
         },
         {
           "name": "Temple",
@@ -2727,7 +3117,10 @@
           ],
           "rivalryNames": {},
           "prestige": "50",
-          "hexColor": "#971B2F"
+          "hexColor": "#971B2F",
+          "headCoach": {
+            "name": "Stan Drayton"
+          }
         }
       ]
     },
@@ -2748,7 +3141,10 @@
             "MISS": "Egg Bowl"
           },
           "prestige": "70",
-          "hexColor": "#660000"
+          "hexColor": "#660000",
+          "headCoach": {
+            "name": "Zach Arnett"
+          }
         },
         {
           "name": "Vanderbilt",
@@ -2761,7 +3157,10 @@
           ],
           "rivalryNames": {},
           "prestige": "65",
-          "hexColor": "#866D4B"
+          "hexColor": "#866D4B",
+          "headCoach": {
+            "name": "Clark Lea"
+          }
         },
         {
           "name": "Appalachian State",
@@ -2772,7 +3171,10 @@
           ],
           "rivalryNames": {},
           "prestige": "50",
-          "hexColor": "#222222"
+          "hexColor": "#222222",
+          "headCoach": {
+            "name": "Shawn Clark"
+          }
         },
         {
           "name": "Coastal Carolina",
@@ -2783,7 +3185,10 @@
           ],
           "rivalryNames": {},
           "prestige": "50",
-          "hexColor": "#006F71"
+          "hexColor": "#006F71",
+          "headCoach": {
+            "name": "Tim Beck"
+          }
         },
         {
           "name": "Georgia Southern",
@@ -2794,7 +3199,10 @@
           ],
           "rivalryNames": {},
           "prestige": "50",
-          "hexColor": "#011E41"
+          "hexColor": "#011E41",
+          "headCoach": {
+            "name": "Clay Helton"
+          }
         },
         {
           "name": "Troy",
@@ -2805,7 +3213,10 @@
           ],
           "rivalryNames": {},
           "prestige": "50",
-          "hexColor": "#8A2432"
+          "hexColor": "#8A2432",
+          "headCoach": {
+            "name": "Jon Sumrall"
+          }
         },
         {
           "name": "Marshall",
@@ -2816,7 +3227,10 @@
           ],
           "rivalryNames": {},
           "prestige": "55",
-          "hexColor": "#00B140"
+          "hexColor": "#00B140",
+          "headCoach": {
+            "name": "Charles Huff"
+          }
         },
         {
           "name": "UL Lafayette",
@@ -2827,7 +3241,10 @@
           ],
           "rivalryNames": {},
           "prestige": "50",
-          "hexColor": "#CE181E"
+          "hexColor": "#CE181E",
+          "headCoach": {
+            "name": "Michael Desormeaux"
+          }
         },
         {
           "name": "Arkansas State",
@@ -2838,7 +3255,10 @@
           ],
           "rivalryNames": {},
           "prestige": "50",
-          "hexColor": "#CC092F"
+          "hexColor": "#CC092F",
+          "headCoach": {
+            "name": "Butch Jones"
+          }
         },
         {
           "name": "James Madison",
@@ -2849,7 +3269,10 @@
           ],
           "rivalryNames": {},
           "prestige": "50",
-          "hexColor": "#450084"
+          "hexColor": "#450084",
+          "headCoach": {
+            "name": "Curt Cignetti"
+          }
         }
       ]
     },
@@ -2871,7 +3294,22 @@
             "UTAH": "Rumble in the Rockies"
           },
           "prestige": "75",
-          "hexColor": "#CFB87C"
+          "hexColor": "#CFB87C",
+          "headCoach": {
+            "contractLength": "6",
+            "startYear": "2023",
+            "age": "56",
+            "ratOff": "80",
+            "cumulativePrestige": "0",
+            "ratDef": "75",
+            "homeState": "Florida",
+            "ratPot": "96",
+            "hometown": "Fort Meyers",
+            "ratTalent": "85",
+            "baselinePrestige": "83",
+            "name": "Deion Sanders",
+            "contractYear": "0"
+          }
         },
         {
           "name": "Utah",
@@ -2886,7 +3324,22 @@
             "COL": "Rumble in the Rockies"
           },
           "prestige": "80",
-          "hexColor": "#CC0000"
+          "hexColor": "#CC0000",
+          "headCoach": {
+            "contractLength": "6",
+            "startYear": "2023",
+            "age": "63",
+            "ratOff": "78",
+            "cumulativePrestige": "0",
+            "ratDef": "88",
+            "homeState": "California",
+            "ratPot": "85",
+            "hometown": "San Luis Obispo",
+            "ratTalent": "80",
+            "baselinePrestige": "73",
+            "name": "Kyle Whittingham",
+            "contractYear": "0"
+          }
         },
         {
           "name": "Boise State",
@@ -2897,7 +3350,10 @@
           ],
           "rivalryNames": {},
           "prestige": "55",
-          "hexColor": "#D64309"
+          "hexColor": "#D64309",
+          "headCoach": {
+            "name": "Andy Avalos"
+          }
         },
         {
           "name": "Colorado State",
@@ -2911,7 +3367,10 @@
             "WYO": "Border War"
           },
           "prestige": "55",
-          "hexColor": "#1E4D2B"
+          "hexColor": "#1E4D2B",
+          "headCoach": {
+            "name": "Jay Norvell"
+          }
         },
         {
           "name": "Fresno State",
@@ -2925,7 +3384,10 @@
             "NEV": "Sierra Showdown"
           },
           "prestige": "55",
-          "hexColor": "#DB0032"
+          "hexColor": "#DB0032",
+          "headCoach": {
+            "name": "Jeff Tedford"
+          }
         },
         {
           "name": "Hawaii",
@@ -2939,7 +3401,10 @@
             "UNLV": "Ninth Island Showdown"
           },
           "prestige": "50",
-          "hexColor": "#024731"
+          "hexColor": "#024731",
+          "headCoach": {
+            "name": "Timmy Chang"
+          }
         },
         {
           "name": "Nevada",
@@ -2954,7 +3419,10 @@
             "UNLV": "Battle for Nevada"
           },
           "prestige": "50",
-          "hexColor": "#003366"
+          "hexColor": "#003366",
+          "headCoach": {
+            "name": "Ken Wilson"
+          }
         },
         {
           "name": "UNLV",
@@ -2968,7 +3436,10 @@
             "HAW": "Ninth Island Showdown"
           },
           "prestige": "50",
-          "hexColor": "#CF0A2C"
+          "hexColor": "#CF0A2C",
+          "headCoach": {
+            "name": "Barry Odom"
+          }
         },
         {
           "name": "Utah State",
@@ -2983,7 +3454,10 @@
             "UTAH": "Battle of the Brothers"
           },
           "prestige": "55",
-          "hexColor": "#00263A"
+          "hexColor": "#00263A",
+          "headCoach": {
+            "name": "Blake Anderson"
+          }
         },
         {
           "name": "Wyoming",
@@ -2996,7 +3470,10 @@
             "CSU": "Border War"
           },
           "prestige": "55",
-          "hexColor": "#492F24"
+          "hexColor": "#492F24",
+          "headCoach": {
+            "name": "Craig Bohl"
+          }
         }
       ]
     },
@@ -3016,7 +3493,10 @@
           ],
           "rivalryNames": {},
           "prestige": "75",
-          "hexColor": "#E03A3E"
+          "hexColor": "#E03A3E",
+          "headCoach": {
+            "name": "Mike Locksley"
+          }
         },
         {
           "name": "Florida International",
@@ -3027,7 +3507,10 @@
           ],
           "rivalryNames": {},
           "prestige": "50",
-          "hexColor": "#081E3F"
+          "hexColor": "#081E3F",
+          "headCoach": {
+            "name": "Mike MacIntyre"
+          }
         },
         {
           "name": "Liberty",
@@ -3038,7 +3521,10 @@
           ],
           "rivalryNames": {},
           "prestige": "55",
-          "hexColor": "#002D62"
+          "hexColor": "#002D62",
+          "headCoach": {
+            "name": "Jamey Chadwell"
+          }
         },
         {
           "name": "Louisiana Tech",
@@ -3049,7 +3535,10 @@
           ],
           "rivalryNames": {},
           "prestige": "50",
-          "hexColor": "#002F8B"
+          "hexColor": "#002F8B",
+          "headCoach": {
+            "name": "Sonny Cumbie"
+          }
         },
         {
           "name": "Middle Tennessee",
@@ -3060,7 +3549,10 @@
           ],
           "rivalryNames": {},
           "prestige": "50",
-          "hexColor": "#0066CC"
+          "hexColor": "#0066CC",
+          "headCoach": {
+            "name": "Rick Stockstill"
+          }
         },
         {
           "name": "Western Kentucky",
@@ -3071,7 +3563,10 @@
           ],
           "rivalryNames": {},
           "prestige": "50",
-          "hexColor": "#C60C30"
+          "hexColor": "#C60C30",
+          "headCoach": {
+            "name": "Tyson Helton"
+          }
         },
         {
           "name": "Sam Houston",
@@ -3082,7 +3577,10 @@
           ],
           "rivalryNames": {},
           "prestige": "50",
-          "hexColor": "#F56423"
+          "hexColor": "#F56423",
+          "headCoach": {
+            "name": "KC Keeler"
+          }
         },
         {
           "name": "Jacksonville State",
@@ -3093,7 +3591,10 @@
           ],
           "rivalryNames": {},
           "prestige": "50",
-          "hexColor": "#CC0000"
+          "hexColor": "#CC0000",
+          "headCoach": {
+            "name": "Rich Rodriguez"
+          }
         },
         {
           "name": "New Mexico State",
@@ -3104,7 +3605,10 @@
           ],
           "rivalryNames": {},
           "prestige": "50",
-          "hexColor": "#C60C30"
+          "hexColor": "#C60C30",
+          "headCoach": {
+            "name": "Jerry Kill"
+          }
         },
         {
           "name": "UTEP",
@@ -3115,7 +3619,10 @@
           ],
           "rivalryNames": {},
           "prestige": "50",
-          "hexColor": "#FF8200"
+          "hexColor": "#FF8200",
+          "headCoach": {
+            "name": "Dana Dimel"
+          }
         }
       ]
     },
@@ -3134,7 +3641,10 @@
           ],
           "rivalryNames": {},
           "prestige": "70",
-          "hexColor": "#4E2A84"
+          "hexColor": "#4E2A84",
+          "headCoach": {
+            "name": "Pat Fitzgerald"
+          }
         },
         {
           "name": "Nebraska",
@@ -3147,7 +3657,10 @@
           ],
           "rivalryNames": {},
           "prestige": "75",
-          "hexColor": "#E41C38"
+          "hexColor": "#E41C38",
+          "headCoach": {
+            "name": "Matt Rhule"
+          }
         },
         {
           "name": "Ball State",
@@ -3158,7 +3671,10 @@
           ],
           "rivalryNames": {},
           "prestige": "50",
-          "hexColor": "#BA0C2F"
+          "hexColor": "#BA0C2F",
+          "headCoach": {
+            "name": "Mike Neu"
+          }
         },
         {
           "name": "Bowling Green",
@@ -3169,7 +3685,10 @@
           ],
           "rivalryNames": {},
           "prestige": "50",
-          "hexColor": "#FE5000"
+          "hexColor": "#FE5000",
+          "headCoach": {
+            "name": "Scot Loeffler"
+          }
         },
         {
           "name": "Central Michigan",
@@ -3180,7 +3699,10 @@
           ],
           "rivalryNames": {},
           "prestige": "50",
-          "hexColor": "#6A0032"
+          "hexColor": "#6A0032",
+          "headCoach": {
+            "name": "Jim McElwain"
+          }
         },
         {
           "name": "Eastern Michigan",
@@ -3192,7 +3714,10 @@
           ],
           "rivalryNames": {},
           "prestige": "50",
-          "hexColor": "#006633"
+          "hexColor": "#006633",
+          "headCoach": {
+            "name": "Chris Creighton"
+          }
         },
         {
           "name": "Ohio",
@@ -3203,7 +3728,10 @@
           ],
           "rivalryNames": {},
           "prestige": "50",
-          "hexColor": "#00694E"
+          "hexColor": "#00694E",
+          "headCoach": {
+            "name": "Tim Albin"
+          }
         },
         {
           "name": "Toledo",
@@ -3214,7 +3742,10 @@
           ],
           "rivalryNames": {},
           "prestige": "55",
-          "hexColor": "#15397F"
+          "hexColor": "#15397F",
+          "headCoach": {
+            "name": "Jason Candle"
+          }
         },
         {
           "name": "Buffalo",
@@ -3225,7 +3756,10 @@
           ],
           "rivalryNames": {},
           "prestige": "50",
-          "hexColor": "#005BBB"
+          "hexColor": "#005BBB",
+          "headCoach": {
+            "name": "Maurice Linguist"
+          }
         },
         {
           "name": "Northern Illinois",
@@ -3236,7 +3770,10 @@
           ],
           "rivalryNames": {},
           "prestige": "50",
-          "hexColor": "#BA0C2F"
+          "hexColor": "#BA0C2F",
+          "headCoach": {
+            "name": "Thomas Hammock"
+          }
         }
       ]
     },
@@ -3259,7 +3796,10 @@
             "UK": "Border War"
           },
           "prestige": "70",
-          "hexColor": "#000000"
+          "hexColor": "#000000",
+          "headCoach": {
+            "name": "Eliah Drinkwitz"
+          }
         },
         {
           "name": "Houston",
@@ -3271,7 +3811,10 @@
           ],
           "rivalryNames": {},
           "prestige": "70",
-          "hexColor": "#C8102E"
+          "hexColor": "#C8102E",
+          "headCoach": {
+            "name": "Dana Holgorsen"
+          }
         },
         {
           "name": "Air Force",
@@ -3284,7 +3827,10 @@
           ],
           "rivalryNames": {},
           "prestige": "50",
-          "hexColor": "#003087"
+          "hexColor": "#003087",
+          "headCoach": {
+            "name": "Troy Calhoun"
+          }
         },
         {
           "name": "BYU",
@@ -3297,7 +3843,10 @@
           ],
           "rivalryNames": {},
           "prestige": "70",
-          "hexColor": "#002E5D"
+          "hexColor": "#002E5D",
+          "headCoach": {
+            "name": "Kalani Sitake"
+          }
         },
         {
           "name": "Akron",
@@ -3308,7 +3857,10 @@
           ],
           "rivalryNames": {},
           "prestige": "50",
-          "hexColor": "#041E42"
+          "hexColor": "#041E42",
+          "headCoach": {
+            "name": "Joe Moorhead"
+          }
         },
         {
           "name": "Kent State",
@@ -3319,7 +3871,10 @@
           ],
           "rivalryNames": {},
           "prestige": "50",
-          "hexColor": "#002664"
+          "hexColor": "#002664",
+          "headCoach": {
+            "name": "Kenni Burns"
+          }
         },
         {
           "name": "Central Florida",
@@ -3334,7 +3889,10 @@
             "USF": "War on I-4"
           },
           "prestige": "70",
-          "hexColor": "#BA9B37"
+          "hexColor": "#BA9B37",
+          "headCoach": {
+            "name": "Gus Malzahn"
+          }
         },
         {
           "name": "Florida Atlantic",
@@ -3346,7 +3904,10 @@
           ],
           "rivalryNames": {},
           "prestige": "50",
-          "hexColor": "#003366"
+          "hexColor": "#003366",
+          "headCoach": {
+            "name": "Tom Herman"
+          }
         },
         {
           "name": "San Diego State",
@@ -3357,7 +3918,10 @@
           ],
           "rivalryNames": {},
           "prestige": "50",
-          "hexColor": "#A6192E"
+          "hexColor": "#A6192E",
+          "headCoach": {
+            "name": "Brady Hoke"
+          }
         },
         {
           "name": "San Jose State",
@@ -3368,7 +3932,10 @@
           ],
           "rivalryNames": {},
           "prestige": "50",
-          "hexColor": "#0055A2"
+          "hexColor": "#0055A2",
+          "headCoach": {
+            "name": "Brent Brennan"
+          }
         }
       ]
     }
