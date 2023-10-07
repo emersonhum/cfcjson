@@ -617,7 +617,257 @@
             "ORST": "Civil War"
           },
           "prestige": "90",
-          "hexColor": "#154733"
+          "hexColor": "#154733",
+          "headCoach": {
+            "contractLength": "6",
+            "startYear": "2023",
+            "age": "37",
+            "ratOff": "80",
+            "cumulativePrestige": "0",
+            "ratDef": "90",
+            "homeState": "Missouri",
+            "ratPot": "99",
+            "hometown": "North Kansas City",
+            "ratTalent": "95",
+            "baselinePrestige": "80",
+            "name": "Dan Lanning",
+            "contractYear": "0"
+          },
+          "offCoordinator": {
+            "contractLength": "5",
+            "startYear": "2023",
+            "age": "49",
+            "cumulativePrestige": "0",
+            "homeState": "Oregon",
+            "ratPot": "99",
+            "hometown": "Coos Bay",
+            "ratTalent": "95",
+            "baselinePrestige": "85",
+            "coachingAbility": "85",
+            "name": "Mark Helfrich",
+            "contractYear": "0"
+          },
+          "defCoordinator": {
+            "contractLength": "5",
+            "startYear": "2023",
+            "age": "61",
+            "cumulativePrestige": "0",
+            "homeState": "California",
+            "ratPot": "99",
+            "hometown": "Banning",
+            "ratTalent": "95",
+            "baselinePrestige": "85",
+            "coachingAbility": "85",
+            "name": "Don Pellum",
+            "contractYear": "0"
+          },
+          "roster": {
+            "QB": {
+              "count": 4,
+              "players": [
+                {
+                  "name": "Marcus Mariota",
+                  "ratPot": "99",
+                  "position": "QB",
+                  "ratDur": "99",
+                  "ratings": {
+                    "playerStat4": {
+                      "name": "Football IQ",
+                      "value": "95"
+                    },
+                    "playerStat1": {
+                      "name": "Recruit Rating",
+                      "value": "3-star"
+                    },
+                    "playerStat6": {
+                      "name": "Throwing Accuracy",
+                      "value": "95"
+                    },
+                    "playerStat3": {
+                      "name": "Durability",
+                      "value": "95"
+                    },
+                    "playerStat8": {
+                      "name": "Speed",
+                      "value": "90"
+                    },
+                    "playerStat5": {
+                      "name": "Throwing Power",
+                      "value": "98"
+                    },
+                    "playerStat2": {
+                      "name": "Potential",
+                      "value": "99"
+                    },
+                    "playerStat7": {
+                      "name": "Evasion",
+                      "value": "97"
+                    }
+                  },
+                  "jerseyNumber": "8",
+                  "ratFootIQ": "95",
+                  "startYear": "2023",
+                  "personalDetails": {
+                    "home_state": "Hawaii",
+                    "city": "Honolulu",
+                    "height": "6ft4in",
+                    "weight": "222 lbs"
+                  },
+                  "year": "1"
+                },
+                {
+                  "name": "Dennis Dixon",
+                  "ratPot": "95",
+                  "position": "QB",
+                  "ratDur": "99",
+                  "ratings": {
+                    "playerStat4": {
+                      "name": "Football IQ",
+                      "value": "95"
+                    },
+                    "playerStat1": {
+                      "name": "Recruit Rating",
+                      "value": "4-star"
+                    },
+                    "playerStat6": {
+                      "name": "Throwing Accuracy",
+                      "value": "95"
+                    },
+                    "playerStat3": {
+                      "name": "Durability",
+                      "value": "95"
+                    },
+                    "playerStat8": {
+                      "name": "Speed",
+                      "value": "90"
+                    },
+                    "playerStat5": {
+                      "name": "Throwing Power",
+                      "value": "90"
+                    },
+                    "playerStat2": {
+                      "name": "Potential",
+                      "value": "99"
+                    },
+                    "playerStat7": {
+                      "name": "Evasion",
+                      "value": "90"
+                    }
+                  },
+                  "jerseyNumber": "10",
+                  "ratFootIQ": "95",
+                  "startYear": "2023",
+                  "personalDetails": {
+                    "home_state": "California",
+                    "city": "Oakland",
+                    "height": "6ft3in",
+                    "weight": "215 lbs"
+                  },
+                  "year": "4"
+                },
+                {
+                  "name": "Justin Herbert",
+                  "ratPot": "95",
+                  "position": "QB",
+                  "ratDur": "99",
+                  "ratings": {
+                    "playerStat4": {
+                      "name": "Football IQ",
+                      "value": "95"
+                    },
+                    "playerStat1": {
+                      "name": "Recruit Rating",
+                      "value": "3-star"
+                    },
+                    "playerStat6": {
+                      "name": "Throwing Accuracy",
+                      "value": "95"
+                    },
+                    "playerStat3": {
+                      "name": "Durability",
+                      "value": "95"
+                    },
+                    "playerStat8": {
+                      "name": "Speed",
+                      "value": "80"
+                    },
+                    "playerStat5": {
+                      "name": "Throwing Power",
+                      "value": "99"
+                    },
+                    "playerStat2": {
+                      "name": "Potential",
+                      "value": "99"
+                    },
+                    "playerStat7": {
+                      "name": "Evasion",
+                      "value": "85"
+                    }
+                  },
+                  "jerseyNumber": "9",
+                  "ratFootIQ": "95",
+                  "startYear": "2023",
+                  "personalDetails": {
+                    "home_state": "Oregon",
+                    "city": "Eugene",
+                    "height": "6ft6in",
+                    "weight": "236 lbs"
+                  },
+                  "year": "1"
+                },
+                {
+                  "name": "Darron Thomas",
+                  "ratPot": "90",
+                  "position": "QB",
+                  "ratDur": "99",
+                  "ratings": {
+                    "playerStat4": {
+                      "name": "Football IQ",
+                      "value": "90"
+                    },
+                    "playerStat1": {
+                      "name": "Recruit Rating",
+                      "value": "4-star"
+                    },
+                    "playerStat6": {
+                      "name": "Throwing Accuracy",
+                      "value": "90"
+                    },
+                    "playerStat3": {
+                      "name": "Durability",
+                      "value": "95"
+                    },
+                    "playerStat8": {
+                      "name": "Speed",
+                      "value": "90"
+                    },
+                    "playerStat5": {
+                      "name": "Throwing Power",
+                      "value": "85"
+                    },
+                    "playerStat2": {
+                      "name": "Potential",
+                      "value": "88"
+                    },
+                    "playerStat7": {
+                      "name": "Evasion",
+                      "value": "90"
+                    }
+                  },
+                  "jerseyNumber": "1",
+                  "ratFootIQ": "90",
+                  "startYear": "2023",
+                  "personalDetails": {
+                    "home_state": "Texas",
+                    "city": "Houston",
+                    "height": "6ft3in",
+                    "weight": "215 lbs"
+                  },
+                  "year": "1"
+                }
+              ]
+            }
+          }
         },
         {
           "name": "Oregon State",
