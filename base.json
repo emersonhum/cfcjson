@@ -710,7 +710,7 @@
                   "personalDetails": {
                     "home_state": "Hawaii",
                     "city": "Honolulu",
-                    "height": "6ft4in",
+                    "height": "6ft 4in",
                     "weight": "222 lbs"
                   },
                   "year": "1"
@@ -760,7 +760,7 @@
                   "personalDetails": {
                     "home_state": "California",
                     "city": "Oakland",
-                    "height": "6ft3in",
+                    "height": "6'3in\"",
                     "weight": "215 lbs"
                   },
                   "year": "4"
